@@ -1,7 +1,5 @@
 # Hey, I'm Nithin 👋
 
----
-
 I'm a UC Berkeley Undegrad Student studying Operations Research & Math. I'm exploring reinforcement learning, computing & wearable tech.
 
 ---
@@ -17,4 +15,4 @@ Currently conducting RL & OR research in Marketing Analytics. Designing a natura
 
 ---
 
-[X](https://x.com/nithinaru)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [nithinaruswamy.com](https://nithinaruswamy.com)  –  [GMail](mailto:nithin.alaska@gmail.com)
+[nithinaruswamy.com](https://nithinaruswamy.com)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [Gmail](mailto:nithin.alaska@gmail.com)  –  [X](https://x.com/nithinaru)
